@@ -57,46 +57,10 @@ rm(list=ls())
 
 # load the required libraries
 library(caret)	# provides nearZeroVar function
-```
-
-```
-## Warning: package 'caret' was built under R version 3.2.5
-```
-
-```
-## Warning: package 'ggplot2' was built under R version 3.2.5
-```
-
-```r
 library(rattle)
-```
-
-```
-## Warning: package 'rattle' was built under R version 3.2.5
-```
-
-```r
 library(corrplot)
-```
-
-```
-## Warning: package 'corrplot' was built under R version 3.2.5
-```
-
-```r
 library(rpart)
-```
-
-```
-## Warning: package 'rpart' was built under R version 3.2.5
-```
-
-```r
 library(rpart.plot)	# provides prp function
-```
-
-```
-## Warning: package 'rpart.plot' was built under R version 3.2.5
 ```
 
 Seed value for the pseudo-random generator:

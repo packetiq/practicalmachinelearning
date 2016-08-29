@@ -63,7 +63,7 @@ RStudio Version 0.99.893
 
 The following R libraries were used:  
 
-```{r libraries, echo=TRUE, message=FALSE}
+```{r libraries, echo=TRUE, message=FALSE, warning=FALSE}
 # free up memory from any previous work
 rm(list=ls())
 
